@@ -1,4 +1,4 @@
-# Trybe
+# Exercícios da Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por [mim](https://www.linkedin.com/in/vinicius-silva-virgilli/) enquanto pessoa estudante na [Trybe](https://www.betrybe.com/)! :rocket:
 
