@@ -57,3 +57,5 @@ Bloco 7: Higher Order Functions do JavaScript ES6
 4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
 5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
 6 - Projeto - Zoo functions
+- [ ] 2-1: _O que é e para que serve?_
+
