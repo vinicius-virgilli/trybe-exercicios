@@ -1,4 +1,4 @@
-# Fundamentos do Desenvolvimento Web ✅
+# Fundamentos do Desenvolvimento Web :memo:
 
 Bloco 1: Introdução - Unix & Shell
 
