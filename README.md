@@ -17,7 +17,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 2: [Introdução à HTML & CSS](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS)
 
 - [x] 2.1 - HTML & CSS - Estruturas de página
-- [ ] 2.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 2.2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 2.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 2.4 - HTML Semântico
 - [ ] 2.5 - Projeto - Lessons Learned
