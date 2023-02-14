@@ -1,6 +1,6 @@
 
 
-#### vimos sobre:
+### vimos sobre:
 
 - Forma simples como a internet funciona;
 
@@ -19,3 +19,5 @@
 - Utilização do HTML para estruturar textos e títulos;
 
 - Utilização do HTML para criar listas, links e adicionar imagens.
+
+- Criei a primeira versão do meu portifólio Web no Github Pages
