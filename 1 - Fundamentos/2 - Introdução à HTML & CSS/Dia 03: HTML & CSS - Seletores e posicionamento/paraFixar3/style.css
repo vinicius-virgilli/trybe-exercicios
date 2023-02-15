@@ -1,0 +1,17 @@
+
+h1, p {
+    text-align: center;
+}
+
+ol li:hover {
+    background-color: aquamarine;
+}
+
+ol li:active {
+    font-family: 'Poppins', sans-serif;
+} 
+
+ol, ul {
+    list-style: none;
+}
+
