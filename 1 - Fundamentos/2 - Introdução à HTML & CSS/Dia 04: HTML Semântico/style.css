@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 40px;
+  }
+
+  .first {
+    display: inline-block;
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+  }
+
+  .second {
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+  }
+
+  .third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+  }
+
+  .second_e_third li {
+    display: inline-block
+    
+  }
+
+  .description ul li {
+    display: inline;
+  }
+
+  section ul {
+    list-style: none;
+  }
