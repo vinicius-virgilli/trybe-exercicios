@@ -40,7 +40,7 @@ li em {
 .devs_brothers_sites li:hover {
     font-weight: bold;    
 }
-
+/*muito útil o método [href*="característicabuscada"]*/
 .devs_brothers_sites li a[href*="stackoverflow"]:hover {
     color: orange;
 }
