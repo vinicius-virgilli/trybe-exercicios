@@ -1,4 +1,4 @@
-### Com os conhecimentos e exercícios visto neste dia somos capazes de:
+### Com os conhecimentos e exercícios vistos neste dia somos capazes de:
 
 - Fazer uso de elementos HTML de acordo com o sentido e o propósito que eles carregam. Tais elementos incluem, mas não se limitam a: header, nav, aside, article, section, footer e img;
 
