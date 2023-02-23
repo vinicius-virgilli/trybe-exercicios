@@ -11,7 +11,7 @@ Minha postagem no linkedin sobre os comandos divertidos:
 
 Clique na imagem para vê-la no linkedin :point_down: !
 
-<a href="https://www.linkedin.com/posts/vinicius-silva-virgilli_vqv-soutrybe-betrybe-activity-7029469353032978432-LluT?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer"><img style="margin: auto" src="./imagens/postagem sobre comandos no terminal.png" alt="postagem sobre comandos no terminal"></a>
+<a href="https://www.linkedin.com/posts/vinicius-silva-virgilli_vqv-soutrybe-betrybe-activity-7029469353032978432-LluT?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer"><img style="margin: auto" src="postagem sobre comandos no terminal.png" alt="postagem sobre comandos no terminal"></a>
 
 Clique na imagem para vê-la no linkedin :point_up_2: !
 
