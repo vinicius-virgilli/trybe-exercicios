@@ -1,4 +1,5 @@
 ### Hoje iniciamos a seção 3. Aprendemos:
+<br>
 
 - O que é o JavaScript (JS)
 
