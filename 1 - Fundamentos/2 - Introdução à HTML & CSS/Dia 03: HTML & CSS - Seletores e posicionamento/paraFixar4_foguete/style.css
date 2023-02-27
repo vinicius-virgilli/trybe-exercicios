@@ -1,0 +1,36 @@
+
+div:hover {
+    border: 10px solid black;
+}
+
+.fistColor h3 {
+    background-color: blue;
+    color: aliceblue;
+    font-family: 'Babylonica', cursive;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.secondColor h3 {
+    background-color: purple;
+    color: aliceblue;
+    font-size: small;
+}
+
+.additionalColor h3 {
+    block-size: 50px;
+    background-color: greenyellow;
+    font-family: 'Dancing Script', cursive;
+    font-style: italic;
+}
+
+.darkColor h3 {
+    background-color: brown;
+    color: yellow;
+}
+
+.clearColor {
+    background-color: yellow;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
