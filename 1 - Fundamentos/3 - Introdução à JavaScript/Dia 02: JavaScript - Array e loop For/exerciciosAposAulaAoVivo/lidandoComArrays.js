@@ -6,6 +6,8 @@ let smaller = Infinity;
 let counterOdd = 0;
 let newArray = [];
 
+console.log('Os ítens do array são: \n');
+
 for (let index = 0; index < numbers.length; index += 1) {
     console.log(numbers[index]);
     sum += numbers[index];
@@ -23,7 +25,7 @@ for (let index = 0; index < numbers.length; index += 1) {
     }
 
     if (index == numbers.length - 1) {
-        console.log('A soma dos números é: ' + sum);
+        console.log('\nA soma dos números é: ' + sum);
         average = (sum / numbers.length);
         console.log('A média dos números é: ' + average);
 
@@ -46,10 +48,14 @@ for (let index = 0; index < numbers.length; index += 1) {
 
 }
 
+console.log('\nOs ítens de um array de 1 até 25 são:\n')
+
 for (let index = 0; index < 25; index += 1) {
     newArray.push(index + 1);
     console.log(newArray[index])
 }
+
+console.log('\nOs ítens de um array de 1 até 25, divididos por 2, são:\n')
 
 for (let index = 0; index < newArray.length; index += 1) {
     console.log(newArray[index] / 2)
