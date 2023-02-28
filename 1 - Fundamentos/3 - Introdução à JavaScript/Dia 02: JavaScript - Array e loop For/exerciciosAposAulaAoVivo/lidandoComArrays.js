@@ -1,10 +1,10 @@
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
-let sum;
-let average;
+let sum = 0;
+let average = 0
 let bigger = - Infinity;
 let smaller = Infinity;
 let counterOdd = 0;
-
+let newArray = [];
 
 for (let index = 0; index < numbers.length; index += 1) {
     console.log(numbers[index]);
@@ -22,10 +22,9 @@ for (let index = 0; index < numbers.length; index += 1) {
         counterOdd += 1;
     }
 
-    if (index == numbers.length) {
+    if (index == numbers.length - 1) {
         console.log('A soma dos números é: ' + sum);
-        console.log('')
-        average = (sum / index);
+        average = (sum / numbers.length);
         console.log('A média dos números é: ' + average);
 
         if (average > 20) {
@@ -43,13 +42,15 @@ for (let index = 0; index < numbers.length; index += 1) {
         }
 
         console.log('O menor valor do array é: ' + smaller);
-
     }
 
 }
 
+for (let index = 0; index < 25; index += 1) {
+    newArray.push(index + 1);
+    console.log(newArray[index])
+}
 
-
-Utilizando for, crie um array que vá de 1 a 25 e imprima o resultado.
-
-Utilizando o array que acabou de criar, imprima o resultado da divisão de cada um dos elementos por 2.
+for (let index = 0; index < newArray.length; index += 1) {
+    console.log(newArray[index] / 2)
+}
