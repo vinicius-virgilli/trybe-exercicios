@@ -24,7 +24,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 3: [Introdução à JavaScript](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript)
 
-- [ ] 3.1 - Primeiros passos
+- [X] 3.1 - Primeiros passos
 - [ ] 3.2 - Array e loop For
 - [ ] 3.3 - Lógica de Programação e Algoritmos
 - [ ] 3.4 - Objetos e funções
