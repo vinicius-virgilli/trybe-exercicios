@@ -1,4 +1,4 @@
-let n = 25
+let n = 7
 let pyramid = '';
 let countOdd = 0;
 let lineSize = Math.trunc(n /2);
