@@ -1,4 +1,4 @@
-let n = 5;
+let n = 10;
 let triangle = '';
 
 for (let index = (n-1); index >= 0; index += -1) {
