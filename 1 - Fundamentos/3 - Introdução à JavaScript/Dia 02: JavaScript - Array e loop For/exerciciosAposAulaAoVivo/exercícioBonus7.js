@@ -1,4 +1,4 @@
-let n = 5
+let n = 7
 let pyramid = '';
 let countOdd = 0;
 let lineSize = Math.trunc(n /2) + 1;
@@ -13,10 +13,11 @@ for (let index = 1; index <= n; index += 1) {
 }
 
 for (let index = 0; index < countOdd; index += 1) {
+    pyramid = '';
     lineSize += index;
     firstCharacterPosition += - index;
 
-    for (let secondIndex = 0; secondIndex <= lineSize; secondIndex += 1) {
+    for (let secondIndex = 0; secondIndex < lineSize; secondIndex += 1) {
         if (secondIndex < firstCharacterPosition) {
             pyramid += ' ';
         } else {
