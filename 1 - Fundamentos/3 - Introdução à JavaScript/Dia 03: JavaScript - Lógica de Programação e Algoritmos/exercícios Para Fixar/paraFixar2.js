@@ -5,7 +5,7 @@ let clientesTrybeBank = ['Ada', 'John', 'Gus'];
 let newclient = 'Vinicius';
 
 function AddNewClient(newclient) {
-    if (typeof(newclient) == typeof(clientesTrybeBank[0])) {
+    if (typeof newclient == typeof clientesTrybeBank[0]) {
         clientesTrybeBank.push(newclient);
     } else {
         return('Nome de cliente inválido!')
