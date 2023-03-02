@@ -4,7 +4,7 @@ let clientesTrybeBank = ['Ada', 'John', 'Gus'];
 let clientToDelete = 'Vinicius';
 
 function deleteTheClient(clientToDelete) {
-    if (typeof(clientToDelete) == typeof(clientesTrybeBank[0]) &&
+    if (typeof clientToDelete == typeof clientesTrybeBank[0] &&
     clientesTrybeBank.includes(clientToDelete) == true) {
         let index = clientesTrybeBank.indexOf(clientToDelete);
         clientesTrybeBank.splice(index, 1);
