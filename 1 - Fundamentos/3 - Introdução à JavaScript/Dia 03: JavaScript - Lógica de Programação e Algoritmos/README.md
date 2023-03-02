@@ -10,6 +10,6 @@
 
 <p> Fizemos 4 exercícios antes da aula ao vivo e um após, tendo este uma dinâmica muito parecida com o projeto. Ambos acessíveis nas pastas desta seção.
 
-<p> Aprovação do exercício :roquet: 
+<p> Aprovação do exercício :100:
 
 <img src="./exercício  após aula ao vivo/print-aprovação-exercício-functions.png" alt="print da aprovação no exercício functions">
