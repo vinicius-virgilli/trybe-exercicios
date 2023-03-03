@@ -27,3 +27,7 @@
 - Copiar um objeto com o método Object.assign.
 
 - Adicionar propriedades a um objeto.
+
+### Fizemos 5 exercícios para fixar antes da aula ao vivo e 9 exercícios após, destes 5 são bônus.
+
+<p> todos os exercícios podem ser acessados através da pasta exercícios para fixar e exercícios bônus
