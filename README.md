@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.1 - Primeiros passos
 - [X] 3.2 - Array e loop For
 - [X] 3.3 - Lógica de Programação e Algoritmos
-- [] 3.4 - Objetos e funções
+- [ ] 3.4 - Objetos e funções
 - [ ] 3.5 - ES6 - let, const, arrow functions e template literals
 - [ ] 3.6 - Projeto - Playground Functions
 
