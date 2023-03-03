@@ -24,7 +24,6 @@ function addShift(object,key,value) {
 }
 
 addShift(lesson2,'turno','noite');
-console.log(lesson2);
 
 // Crie uma função para listar as keys de um objeto. Essa função deve receber um objeto como parâmetro.
 function listKeys(object) {
@@ -41,8 +40,31 @@ function listValues(object) {
   return Object.values(object);
 }
 
-// Crie um objeto de nome allLessons, que deve agrupar todas as aulas por meio do Object.assign. Cada chave desse novo objeto será uma aula, portanto essas chaves serão nomeadas lesson1, lesson2 e lesson3. Ao executar o comando console.log(allLessons), a saída deverá ser a seguinte:
+// Crie um objeto de nome allLessons, que deve agrupar todas as aulas por meio do Object.assign. Cada chave desse novo objeto será uma aula, portanto essas chaves serão nomeadas lesson1, lesson2 e lesson3. Ao executar o comando console.log(allLessons)
 
-let allLessons = Object.assign({}, lesson1, lesson2, lesson3);
+let allLessons = Object.assign({}, {
+  'lesson1': lesson1, 
+  'lesson2': lesson2, 
+  'lesson3': lesson3
+});
 
-console.log(allLessons);
+// Com base no objeto elaborado no tópico anterior, crie uma função que retorne o número total de estudantes em todas as aulas.
+
+function totalStudentes(object) {
+  let count = 0;
+  for (let key in object) {
+    count += object[key].numeroEstudantes;
+  }
+
+  return count;
+}
+
+// Crie uma função que obtenha o valor da chave de acordo com sua posição no objeto. Por exemplo:
+// console.log(getValueByNumber(lesson1, 0));
+// Output: 'Matemática'
+
+function valueByPosition(key,position) {
+  return Object.values(key)[position];
+}
+
+console.log(valueByPosition(lesson1,0));
