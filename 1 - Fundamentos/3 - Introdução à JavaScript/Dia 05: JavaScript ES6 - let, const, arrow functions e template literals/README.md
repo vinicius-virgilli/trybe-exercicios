@@ -12,6 +12,6 @@
 
 #### fizemos x exercícios após a aula ao vivo, e o exercício Functions in Practice (estilo projeto)!
 
-<p> print da aprovação do exercício :point_down:
-<img> src="./imagens/
+<p> Aprovação do exercício Functions in Practice :point_down:
+<img src="./3 - Introdução à JavaScript/imagens/aprovação exercício Functions in Practice.png>
 
