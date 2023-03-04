@@ -26,17 +26,19 @@ const romanNumbers = {
   M: 1000
 };
 
-let romanNumber = 'MCMXCV';
+let romanNumber = 'Mcmxcv';
 // Checando se a string recebida está no formato de números romanos
 const checkRomanNumber = (romanNumber) => {
-  let check = true;
-  (typeof (romanNumber) !== 'string') && ( check = false);
+  let check;
+  (typeof (romanNumber) !== 'string') ? check = false : check = true;
   return check;
 }
 
-//Função que gera um array de números arábicos correspondentes ao número romano recebido
+/* Função que gera um array de números arábicos correspondentes ao número romano recebido. Mesmo que algum algarismo romano esteja minúsculo */
+
 const arabicArray = (romanNumber) => {
   let arabicArray = [];
+  romanNumber = romanNumber.toUpperCase();
   for (index in romanNumber) {
     arabicArray[index] = romanNumbers[romanNumber[index]];
   }
