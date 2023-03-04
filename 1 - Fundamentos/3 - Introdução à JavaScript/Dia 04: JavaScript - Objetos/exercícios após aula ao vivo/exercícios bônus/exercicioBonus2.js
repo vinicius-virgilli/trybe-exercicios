@@ -8,9 +8,24 @@ let vector = [
   [7, 8, 9, 10],
 ];
 
-//Função que verifica se um número é par
+//Função que verifica se um número é par e retorna true se sim e false caso não seja par
 const isEven = (num) => {
   let check;
   (num % 2 == 0) ? check = true : check = false;
   return check;
 };
+
+//Função que retorna um array com os números pares do vetor recebido
+const evenNumbers = (vector) => {
+  let evenNumbers = [];
+
+  for (let array of vector) {
+    for (let index in array) {
+      (isEven(array[index]) == true) && (evenNumbers.push(array[index])); 
+    }
+  }
+
+  return evenNumbers;
+}
+
+console.log(evenNumbers(vector));
