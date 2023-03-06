@@ -22,31 +22,32 @@ let basket = [
   'Banana', 'Pera', 'Abacate', 'Uva',
 ];
 
-//Função que gera um array com os nomes das frutas existentes no array basket
-const arrayFruits = (basket) => {
-  const arrayFruits = [];
-  for (index of basket) {
-    (!arrayFruits.includes(index)) && (arrayFruits.push(index));
-  }
-
-  return arrayFruits;
-}
-
-//Função que retorna um objeto sendo o nome da fruta como chave, e nº de vezes que ela repete como valor
-const fruitApparitions = (basket) => {
-  const fruitApparitions = {};
-  const Fruits = arrayFruits(basket);
-
-  for (let fruit of Fruits) {
-    let cont = 0;
-    for (let basketFruit of basket) {
-      (basketFruit == fruit) && (cont += 1);
+//Função que retorna um objeto que contenha o nome da fruta como chave e a quantidade de vezes que ela aparece no array basket como valor
+const objectFruitApparitions = (basket) => {
+  let fruitApparitions = {};
+  for (let fruit of basket) {
+    if (fruitApparitions[fruit] == undefined) {
+      fruitApparitions[fruit] = 1;
+    } else{
+      fruitApparitions[fruit] += 1;
     }
-    fruitApparitions[fruit] = cont;
   }
-
   return fruitApparitions;
+ }
+//console.log(objectFruitApparitions(basket));
+
+//Função recebe o array basket e retorna uma mensagem no seguinte formato: x Melancias, x Abacates... */
+const message = (object) => {
+  let objectFruit = objectFruitApparitions(object);
+  let messageArray = [];
+  for (fruit in objectFruit) {
+    if (objectFruit[fruit] > 1) {
+      messageArray.push(`${objectFruit[fruit]} ${fruit}s`);
+    } else {
+      messageArray.push(`${objectFruit[fruit]} ${fruit}`);
+    }
+    
+  }
+  return messageArray;
 }
-
-console.log(fruitApparitions(basket));
-
+console.log(`Sua cesta possui: ${message(basket).join(', ')}.`);

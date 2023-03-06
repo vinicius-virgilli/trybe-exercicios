@@ -26,7 +26,7 @@ const romanNumbers = {
   M: 1000
 };
 
-let romanNumber = 'Mcmxcv';
+let romanNumber = 'mmmm';
 // Checando se a string recebida está no formato de números romanos
 const checkRomanNumber = (romanNumber) => {
   let check;
