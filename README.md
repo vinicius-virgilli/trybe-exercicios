@@ -28,8 +28,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.2 - Array e loop For
 - [X] 3.3 - Lógica de Programação e Algoritmos
 - [X] 3.4 - Objetos e funções
-- [ ] 3.5 - ES6 - let, const, arrow functions e template literals
-- [ ] 3.6 - Projeto - Playground Functions
+- [X] 3.5 - ES6 - let, const, arrow functions e template literals
+- [X] 3.6 - Projeto - Playground Functions
 
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage)
 
