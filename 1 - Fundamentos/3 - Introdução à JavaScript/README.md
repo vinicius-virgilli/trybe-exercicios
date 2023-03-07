@@ -5,3 +5,11 @@
 <img src="./imagens/aprovação exercício Functions in Practice.png" alt="print da aprovação exercício Functions in Practice">
 <p> Fiquei no pódio do nosso jogo Kahoot! Junto dos cologas Emerson Barros e Guilherme Azis! :point_down:
 <img src="./imagens/terceira colocação non Kahoot.png" alt="print do pódio no Kahoot.png">
+
+<details>
+<summary><strong>⌨️ Imagens :point_down:</strong></summary><br />
+
+- 
+
+- `git add` _(para adicionar arquivos ao stage do Git)_;
+</details>
