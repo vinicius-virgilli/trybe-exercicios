@@ -5,6 +5,6 @@ const speedCar = (speed) => {
   } else {
     return `Você está na velocidade permitida`;
   } */
-  (speed >= 120) ? `Você ultrapassou o limite de velocidade` : `Você está na velocidade permitida`;
+  return speed >= 120 ? `Você ultrapassou o limite de velocidade` : `Você está na velocidade permitida`;
 }
 console.log(speedCar(speed));
