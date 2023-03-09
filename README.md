@@ -34,7 +34,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage)
 
 - [X] 4.1 - JDOM e seletores
-- [ ] 4.2 - Trabalhando com elementos
+- [X] 4.2 - Trabalhando com elementos
 - [ ] 4.3 - Eventos
 - [ ] 4.4 - Web Storage
 - [ ] 4.5 - ES6 - let, const, arrow functions e template literals
