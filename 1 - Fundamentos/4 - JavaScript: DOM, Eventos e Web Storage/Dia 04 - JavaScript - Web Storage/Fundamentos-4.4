@@ -1,0 +1,60 @@
+
+14h00 às 14h40 - Momento Soft Skills
+https://trybe.zoom.us/j/93220632071
+
+16h20 às 18h00 - Aula ao vivo
+https://trybe.zoom.us/j/97223866667
+Slido
+https://app.sli.do/event/rESnhXoUwdDtngE9ki3diy
+
+19h20 às 20h00 - Fechamento
+https://trybe.zoom.us/j/99016691948
+
+Preenchimento do Forms Diário
+https://be-trybe.typeform.com/to/NXygjr#cohort_name=Turma%2031%20-%20Tribo%20B
+
+O que vamos aprender?
+Você aprenderá sobre Web Storage. Web Storage provê mecanismos para que as aplicações web possam salvar dados nos browsers das pessoas.
+
+Antes do HTML 5, as aplicações tinham que salvar os dados locais em cookies, que eram enviados para o servidor a cada requisição do browser. Web Storage é mais seguro e tem a capacidade de salvar uma quantidade maior de dados sem afetar o desempenho da página.
+
+Ao contrário dos Cookies, o limite de armazenamento é muito maior (pelo menos 5MB), e as informações não são transferidas para o servidor durante as requisições.
+
+Web Storage é por origem (por domínio e protocolo). Todas as páginas de uma mesma origem podem salvar e acessar os mesmos dados. Por exemplo, se o domínio betrybe.com salva o dado X no Web Storage, o domínio course.betrybe.com consegue ler esse dado X.
+
+Você será capaz de:
+Manipular o objeto localStorage;
+
+Manipular o objeto sessionStorage.
+
+para criar um cookie basta atribuir uma string contendo o nome e valor do que se pretende armazenar
+exemplo:
+document.cookie = 'email=isabella@email.com';
+
+por padrão o cookie é deletado quando se fecha o navegador.. para isso não acontecer pode-se determinar uma data de expiração do cookie, exemplo:
+document.cookie = 'email=isabella@email.com; expires=Thu, 17 Dec 2020 12:00:00 UTC';
+
+por padrão o cookie pernence à página atual.. para mudar essa propriedade (que é chamada de path) é só adicionar esse parâmetro na string que  define o cookie, por exemplo:
+document.cookie = 'email=isabella@email.com; expires=Thu, 17 Dec 2020 12:00:00 UTC; path=/';
+
+deve-se separar por ponto e vírgula os pares chave-valor
+
+para deletar o cookie pode-se passar uma data que já expirou como data de expiração
+
+o HTML Web Storage provê dois objetos para armazenar dados no cliente (browser da pessoa), no formato chave-valor
+
+localstorage - salva os dados sem data de expiração
+
+comandos para manipular o localstorage:
+
+localStorage.length;
+localStorage.setItem('chave', 'valor');
+localStorage.getItem('chave');
+localStorage.removeItem('chave');
+localStorage.clear();
+
+Outro objeto que o HTML Web Storage provê para salvar dados no cliente é o sessionStorage. Nela são salvos dados somente para a sessão.. os dados são removidos assim que se facha a aba ou o navegador
+
+
+
+
