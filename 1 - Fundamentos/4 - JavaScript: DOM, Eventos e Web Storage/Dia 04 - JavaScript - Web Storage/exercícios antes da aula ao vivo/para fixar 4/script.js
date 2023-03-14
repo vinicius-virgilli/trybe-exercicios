@@ -2,7 +2,7 @@ const button = document.getElementById('add-button');
 const input = document.getElementById('phrases-input');
 const list = document.getElementById('phrases-list');
 
-/* const insertPhraseInDOM = () => {
+const insertPhraseInDOM = () => {
   const phrasesList = JSON.parse(sessionStorage.getItem('phrases'));
   const listLength = phrasesList.length - 1;
   const phraseText = phrasesList[listLength];
@@ -10,12 +10,12 @@ const list = document.getElementById('phrases-list');
   phrase.innerText = phraseText;
   list.appendChild(phrase);
 }
- */
 
-const insertPhraseInDOM = () => {
+/* const insertPhraseInDOM = () => {
   const listItem = document.createElement('li');
-  listItem.innerHTML
-}
+  listItem.innerHTML = input.value;
+  list.appendChild(listItem);
+} */
 
 const addPhraseToSessionStorage = () => {
   if (sessionStorage.getItem('phrases') === null) {
