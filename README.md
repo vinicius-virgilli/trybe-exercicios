@@ -36,8 +36,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.1 - JDOM e seletores
 - [X] 4.2 - Trabalhando com elementos
 - [X] 4.3 - Eventos
-- [ ] 4.4 - Web Storage
-- [ ] 4.5 - ES6 - let, const, arrow functions e template literals
+- [X] 4.4 - Web Storage
 - [ ] 4.6 - Projeto - Arte com Pixels
 - [ ] 4.7 - Projetos Bônus
 
