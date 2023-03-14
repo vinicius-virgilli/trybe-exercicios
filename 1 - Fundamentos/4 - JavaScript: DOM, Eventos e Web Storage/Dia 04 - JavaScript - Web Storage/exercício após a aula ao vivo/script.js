@@ -105,4 +105,5 @@ window.onload = () => {
     let fontFamily = event.target.innerHTML;
     localStorage.setItem("fontFamily", fontFamily);
   }
+  
 };
