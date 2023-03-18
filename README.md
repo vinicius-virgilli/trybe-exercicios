@@ -38,12 +38,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.3 - Eventos
 - [X] 4.4 - Web Storage
 - [X] 4.6 - Projeto - Arte com Pixels
-- [ ] 4.7 - Projetos Bônus
+- [x] 4.7 - Projetos Bônus
 
 ##### Bloco 5:[HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo)
 
-- [ ] 5.1 - HTML & CSS - Forms
-- [ ] 5.2 - Bibliotecas JavaScript e Frameworks CSS
+- [X] 5.1 - HTML & CSS - Forms
+- [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 5.3 - CSS Flexbox - Parte 1
 - [ ] 5.4 - CSS Flexbox - Parte 2
 - [ ] 5.5 - CSS Responsivo - Mobile First

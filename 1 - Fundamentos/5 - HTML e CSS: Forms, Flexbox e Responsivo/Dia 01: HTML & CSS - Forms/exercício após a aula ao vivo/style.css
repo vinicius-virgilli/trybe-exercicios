@@ -1,0 +1,12 @@
+
+body {
+  background-color: rgb(19, 96, 19);
+  color: white;
+}
+
+#main-form {
+  margin-top: 50px;
+  margin-left: 33%;
+  width: 500px;
+  margin-bottom: 100px;
+}
