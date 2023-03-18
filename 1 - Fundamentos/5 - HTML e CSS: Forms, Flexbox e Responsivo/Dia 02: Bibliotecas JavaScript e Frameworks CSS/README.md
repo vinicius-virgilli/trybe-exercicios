@@ -12,6 +12,6 @@
 
 <p>Imagem do antes e depois do formulário :point_down:
 
-<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2002:%20Bibliotecas%20JavaScript%20e%20Frameworks%20CSS/Imagem/anted%20e%20depois%20do%20formul%C3%A1rio.png" alt="print do antes e depois do formulário">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2002:%20Bibliotecas%20JavaScript%20e%20Frameworks%20CSS/Imagem/antes%20e%20depois%20do%20formul%C3%A1rio.png" alt="print do antes e depois do formulário">
 
 
