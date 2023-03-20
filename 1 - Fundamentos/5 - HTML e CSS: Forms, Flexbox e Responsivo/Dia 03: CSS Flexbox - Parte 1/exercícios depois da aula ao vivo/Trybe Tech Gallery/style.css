@@ -1,0 +1,49 @@
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-img {
+  height: 40px;
+}
+
+.text-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery {
+  max-width: 480px;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  margin: auto;
+}
+
+.gallery-card {
+  background-color: aliceblue;
+  border-radius: 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  margin: 5px;
+}
+
+.gallery-card img {
+  height: 140px;
+}
+
+.footer-container {
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-container img {
+  height: 30px;
+  margin: 5px;
+}
