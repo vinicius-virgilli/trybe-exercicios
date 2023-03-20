@@ -1,13 +1,8 @@
-### O que vamos aprender?
-Você vai aprender sobre CSS Flexbox Layout (Flexible Box).
+### Hoje fomos apresentados ao CSS Flexbox Layout (Flexible Box).
 
-Flexbox é um módulo que visa fornecer uma maneira mais eficiente de organizar, alinhar e distribuir espaço entre os itens em um container, mesmo quando seu tamanho é desconhecido.
+<p>Já conseguimos utilizar o Flexbox para criar layauts flexíveis e para alterar o comportamento dos caontainers</p>
 
-Um container pode ser qualquer elemento HTML que contenha outros elementos, como, por exemplo, uma <div> ou <section>. Esse elemento pai é chamado de container, e os elementos filhos serão os itens.
+<p>Fizemos 4 exercícios para fixar antes da aula e um exercício estilo projeto chamado Trybe Tech Gallery</p>
 
-A ideia principal por trás do “layout flexível” é dar ao container a habilidade de alterar o tamanho (width e height) e a ordem dos itens para melhor ocupar o espaço disponível. Essa habilidade nos permite acomodar uma página em todos os tipos de dispositivos e tamanhos de tela.
-
-Você será capaz de:
-Utilizar CSS Flexbox para criar layouts flexíveis;
-
-Utilizar CSS Flexbox para alterar o comportamento de containers.
+<p>Print da aprovação do exercício Tech Gallery :point_down:</p>
+<img src="" alt="aprovação no exercício Tech Gallery">
