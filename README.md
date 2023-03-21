@@ -1,14 +1,6 @@
 # Exercícios da [Trybe](https://www.betrybe.com/)
 <br>
 
-# TEST
-## TEST
-### TEST
-#### TEST
-##### TEST
-###### TEST
-<br><br>
-
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Vinicius Silva Virgilli](https://www.linkedin.com/in/vinicius-silva-virgilli/) enquanto pessoa estudante na [Trybe](https://www.betrybe.com/)! :rocket:
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
@@ -55,7 +47,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 5.1 - HTML & CSS - Forms
 - [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 5.3 - CSS Flexbox - Parte 1
+- [x] 5.3 - CSS Flexbox - Parte 1
 - [ ] 5.4 - CSS Flexbox - Parte 2
 - [ ] 5.5 - CSS Responsivo - Mobile First
 - [ ] 5.6 - Projeto - Trybewarts
