@@ -7,5 +7,5 @@
 <p>Print da aprovação do exercício Tech Gallery :point_down:</p>
 <img src="" alt="aprovação no exercício Tech Gallery">
 <br><br>
-<p>Print da aprovação do exercício Tech Gallery :point_down:</p>
-<img src="" alt="aprovação no exercício Tech Gallery">
+<p>Print exercício Tech Gallery Feito :point_down:</p>
+<img src="" alt="Print exercício Tech Gallery Feito">
