@@ -64,6 +64,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  align-content: end;
 }
 
 .card-container div {

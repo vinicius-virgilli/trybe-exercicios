@@ -1,8 +1,13 @@
-### O que vamos aprender?
-Você vai aprender mais sobre CSS Flexbox.
+### hoje aprendemos mais sobre CSS Flexbox.
 
-Na aula anterior, você aprendeu sobre as propriedades Flexbox que atuam no container. Agora é hora de aprender sobre as propriedades que atuam nos items.
+<p> Trabalhamos as seguintes propriedades:
 
-Você será capaz de:
-Utilizar CSS Flexbox para criar layouts flexíveis;
-Utilizar CSS Flexbox para alterar o comportamento de items.
+  - order;
+  - flex-grow;
+  - flex-shrink;
+  - flex-basis
+
+<p> Fizemos 5 exercícios para fixar antes da aula ao vivo e um após. Fiz também um exercício bônus divertido resolvendo os 24 desafios do site "https://flexboxfroggy.com/".
+
+<p>Print da página que organizei como exercício após a aula ao vivo :point_down:
+<img src="" alt="Print da página que organizei como exercício após a aula ao vivo">
