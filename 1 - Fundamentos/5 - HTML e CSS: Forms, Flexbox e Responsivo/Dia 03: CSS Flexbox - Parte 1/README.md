@@ -5,8 +5,8 @@
 <p>Fizemos 4 exercícios para fixar antes da aula e um exercício estilo projeto chamado Trybe Tech Gallery</p>
 
 <p>Print da aprovação do exercício Tech Gallery :point_down:</p>
-<img src="" alt="aprovação no exercício Tech Gallery">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/Fundamentos/5.4/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/imagens/Print%20exerc%C3%ADcio%20Tech%20Gallery%20Feito.png" alt="aprovação no exercício Tech Gallery">
 <br><br>
 <p>Print exercício Tech Gallery Feito :point_down:</p>
-<img src="" alt="Print exercício Tech Gallery Feito">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/Fundamentos/5.4/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/imagens/print%20aprova%C3%A7%C3%A3o%20exerc%C3%ADcio%20Tech%20Gallery.png" alt="Print exercício Tech Gallery Feito">
 
