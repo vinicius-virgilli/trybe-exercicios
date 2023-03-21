@@ -1,4 +1,13 @@
 # Exercícios da [Trybe](https://www.betrybe.com/)
+<br>
+
+# TEST
+## TEST
+### TEST
+#### TEST
+##### TEST
+###### TEST
+<br><br>
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Vinicius Silva Virgilli](https://www.linkedin.com/in/vinicius-silva-virgilli/) enquanto pessoa estudante na [Trybe](https://www.betrybe.com/)! :rocket:
 
@@ -7,6 +16,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 ## :hourglass_flowing_sand: Fundamentos do Desenvolvimento Web
+
+
 
 ##### Bloco 1: [Introdução - Unix & Shell](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git)
 
