@@ -1,0 +1,98 @@
+<!-- /* const sum = (value1, value2) => {
+  return value1 + value2;
+};
+
+//----------------------------------------------------------------------------------
+
+console.log(sum(2, '3')); // resultado: 23 */
+
+/* const sum = (value1, value2) => {
+  if (typeof value1 !== 'number' || typeof value2 !== 'number') {
+    return 'Os valores devem ser numéricos';
+  }
+  return value1 + value2;
+};
+
+//----------------------------------------------------------------------------------
+
+console.log(sum(2, '3')); */
+
+/* const sum = (value1, value2) => {
+  if (typeof value1 !== 'number' || typeof value2 !== 'number') {
+    throw new Error('Os valores devem ser numéricos');
+  }
+  return value1 + value2;
+};
+
+console.log(sum(2, '3')); */
+
+//----------------------------------------------------------------------------------
+
+/* const verifyIsNumber = (value1, value2) => {
+  if (typeof value1 !== 'number' || typeof value2 !== 'number') {
+    throw new Error('Os valores devem ser numéricos'); // através do construtor `new Error` já sabemos que será lançada a mensagem se algo der errado.
+  }
+};
+
+const sum = (value1, value2) => {
+  // o `try` vai executar a função verifyNumber e retornar a soma, caso os parâmetros sejam números
+  try { 
+    verifyIsNumber(value1, value2);
+    return value1 + value2;
+  // se o bloco `try` apresentar erro, o `catch` vai capturar esse erro e retornar a mensagem já criada por meio da propriedade `.message` nativa do objeto Error.
+  } catch (error) {
+    return error.message;
+  }
+};
+
+console.log(sum(2, '3')); */
+
+//----------------------------------------------------------------------------------
+
+/* const verifiraNumeros = (a, b) => {
+  if (typeof a !== 'number' || typeof b !== 'number') {
+    throw new Error('Erro! Tipo de dado incorreto.')
+  }
+}
+
+const somaNumeros = (a, b) => {
+  try {
+    verifiraNumeros(a,b);
+    return a + b;
+  }
+  catch (excecao) {
+    return excecao.message;
+  }
+}
+
+console.log(somaNumeros(5, '40')); */ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Trybe Sporting Goods</title>
+</head>
+<body>
+  <h2>Trybe Sporting Goods</h2>
+  <div>
+    <label for="name-id">Digite seu nome: </label>
+    <input type="text" id="name-id">
+  </div>
+
+  <div>
+    <label for="number-id">Digite um número para receber sua promo do dia: </label>
+    <input type="text" id="number-id">
+  </div>
+
+  <button id="send-button">Enviar</button>
+
+  <p id="text-initial"></p>
+  <p id="text-final"></p>
+</body>
+  <script src="script.js"></script>
+</html>

@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* 1º estilização para telas de largura abaixo de 412 pixels*/
+
+@media (max-width: 412px) {
+
+  header p {
+    font-size: 150%;
+    font-weight:bold;
+  }
+
+  .container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+
+  body {
+    margin: 20px 15px;
+    font-size: x-large
+  }
+
+  aside h2 {
+    font-size: 120%;
+  }
+
+  article h1 {
+
+  }
+}
