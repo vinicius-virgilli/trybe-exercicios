@@ -49,13 +49,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 5.3 - CSS Flexbox - Parte 1
 - [X] 5.4 - CSS Flexbox - Parte 2
-- [ ] 5.5 - CSS Responsivo - Mobile First
-- [ ] 5.6 - Projeto - Trybewarts
+- [X] 5.5 - CSS Responsivo - Mobile First
+- [X] 5.6 - Projeto - Trybewarts
 
 ##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios)
 
-- [ ] 6.1 - Fluxo de exceções e manipulação de objetos
-- [ ] 6.2 - Primeiros passos em Jest
+- [X] 6.1 - Fluxo de exceções e manipulação de objetos
+- [X] 6.2 - Primeiros passos em Jest
 - [ ] 6.3 - Matchers e cobertura de código
 - [ ] 6.4 - Projeto - JavaScript Testes Unitários
 
