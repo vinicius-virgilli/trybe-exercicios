@@ -82,7 +82,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [ ] 7.6 - Projeto - Zoo functions
   </details>
 </details>
-<br>
 
 <details>
   <summary><h2>:hourglass_flowing_sand: Front-end</h2></summary>
