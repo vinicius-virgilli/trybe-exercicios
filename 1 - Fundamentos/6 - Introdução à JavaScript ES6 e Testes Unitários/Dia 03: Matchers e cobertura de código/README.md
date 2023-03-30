@@ -8,4 +8,8 @@ novos matchers para atender a casos específicos.
 - Avaliar a cobertura de testes do seu código.
 <br>
 
-<p>Fizemos y exercícios antes da aula ao vivo e um exercício estilo projeto chamado </p>
+<p>Fizemos 1 exercício e 1 quiz antes da aula ao vivo e um exercício estilo projeto chamado Tests in Practice</p>
+<br>
+
+<p>Print da aprovação no exercício Tests in Practice :point_down:</p>
+<img src="" alt="Print da aprovação no exercício Testes in Practice">
