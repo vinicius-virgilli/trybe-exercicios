@@ -12,7 +12,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 <details>
-  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+  <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git">Seção 1</a>: Introdução - Unix & Shell</summary>
 
 - [X] 1.1 - Unix e shell
 - [X] 1.2 - Git e Github, entendendo comandos
@@ -20,7 +20,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 </details>
 
 <details>
-  <summary>Seção 2:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS"> Introdução à HTML & CSS</a></summary>
+  <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS">Seção 2</a>: Introdução à HTML & CSS</summary>
 
 - [x] 2.1 - HTML & CSS - Estruturas de página
 - [x] 2.2 - HTML & CSS - Primeiros passos em CSS
@@ -80,6 +80,86 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
 - [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
 - [ ] 7.6 - Projeto - Zoo functions
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
+</details>
+
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
+
+- [X] 1.1 - Unix e shell
+- [X] 1.2 - Git e Github, entendendo comandos
+- [X] 1.3 - Git e Github
 </details>
 
 
