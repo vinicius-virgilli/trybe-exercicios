@@ -1,25 +1,22 @@
 ### Finalizamos a seção 5
+<br>
+
+<p>Clique para acessar o projeto <a href="https://vinicius-virgilli.github.io/trybewarts/">Trybewarts</a></p>
+<br>
+
+<p>Print da postagem no linkedìn do projeto :point_down:</p>
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/imagens/print%20da%20postagem%20do%20Trybewarts%20(c%C3%B3pia).png" alt="print da postagem do Trybewarts no linkedIn">
+<br>
 
 <p>Fiquei em 4º no kahoot! Estava em segundo antes da última pergunta, mas por impulso respondi essa última rápido sem prestar tanta atenção e errei.</p>
 <br>
 
 <p>Print tirado antes da última pergunta com eu em 2º lugar :point_down:</p>
-<a href="" alt="print de eu em 2º colocado antes da última pergunta no kahoot da seção 5">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/imagens/print%20do%20segundo%20lugar%20no%20kahoot%20antes%20da%20%C3%BAltima%20pergunta.png" alt="print de eu em 2º colocado antes da última pergunta no kahoot da seção 5">
 <br>
-
-<p>Para acessar o projeto Trybewarts clique <a href="https://vinicius-virgilli.github.io/trybewarts/">aqui</a></p>
-<br>
-
-<p>Print da postagem no linkedìn do projeto :point_down:</p>
-<a href="" alt="print da postagem do Trybewarts no linkedIn">
-<br>
-
+  
 <p>Print da página que organizei como exercício após a aula ao vivo :point_down:
-<img src="" alt="Print da página que organizei como exercício após a aula ao vivo">
-<br>
-
-<p>Print tirado antes da última pergunta com eu em 2º lugar :point_down:</p>
-<a href="" alt="print de eu em 2º colocado antes da última pergunta no kahoot da seção 5">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/imagens/Print%20da%20p%C3%A1gina%20depois%20de%20organizada%20feita%20como%20exerc%C3%ADcio.png" alt="Print da página que organizei como exercício após a aula ao vivo">
 <br>
 
 <p>Print da aprovação do exercício Tech Gallery :point_down:</p>
