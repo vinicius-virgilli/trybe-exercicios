@@ -11,21 +11,26 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-##### Bloco 1: [Introdução - Unix & Shell](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git)
+<details>
+  <summary>Seção 1:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git"> Introdução - Unix & Shell</a></summary>
 
 - [X] 1.1 - Unix e shell
 - [X] 1.2 - Git e Github, entendendo comandos
-- [X] 1.3 - Git e Github)
+- [X] 1.3 - Git e Github
+</details>
 
-##### Bloco 2: [Introdução à HTML & CSS](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS)
+<details>
+  <summary>Seção 2:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS"> Introdução à HTML & CSS</a></summary>
 
 - [x] 2.1 - HTML & CSS - Estruturas de página
 - [x] 2.2 - HTML & CSS - Primeiros passos em CSS
 - [X] 2.3 - HTML & CSS - Seletores e posicionamento
 - [X] 2.4 - HTML Semântico
 - [X] 2.5 - Projeto - Lessons Learned
+</details>
 
-##### Bloco 3: [Introdução à JavaScript](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript)
+<details>
+  <summary>Seção 3:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript"> Introdução à JavaScript</a></summary>
 
 - [X] 3.1 - Primeiros passos
 - [X] 3.2 - Array e loop For
@@ -33,8 +38,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.4 - Objetos e funções
 - [X] 3.5 - ES6 - let, const, arrow functions e template literals
 - [X] 3.6 - Projeto - Playground Functions
+</details>
 
-##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage)
+<details>
+  <summary>Seção 4:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage"> JavaScript: DOM, Eventos e Web Storage</a></summary>
 
 - [X] 4.1 - JDOM e seletores
 - [X] 4.2 - Trabalhando com elementos
@@ -42,8 +49,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.4 - Web Storage
 - [X] 4.6 - Projeto - Arte com Pixels
 - [x] 4.7 - Projetos Bônus
+</details>
 
-##### Bloco 5:[HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo)
+<details>
+  <summary>Seção 5:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo"> HTML e CSS: Forms, Flexbox e Responsivo</a></summary>
 
 - [X] 5.1 - HTML & CSS - Forms
 - [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
@@ -51,15 +60,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.4 - CSS Flexbox - Parte 2
 - [X] 5.5 - CSS Responsivo - Mobile First
 - [X] 5.6 - Projeto - Trybewarts
+</details>
 
-##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios)
+<details>
+  <summary>Seção 6:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios"> Introdução à JavaScript ES6 e Testes Unitários</a></summary>
 
 - [X] 6.1 - Fluxo de exceções e manipulação de objetos
 - [X] 6.2 - Primeiros passos em Jest
 - [X] 6.3 - Matchers e cobertura de código
 - [X] 6.4 - Projeto - JavaScript Testes Unitários
+</details>
 
-##### Bloco 7: [Higher Order Functions do JavaScript ES6](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6)
+<details>
+  <summary>Seção 7:<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6"> Higher Order Functions do JavaScript ES6</a></summary>
 
 - [ ] 7.1 - Introdução a Higher Order Functions
 - [ ] 7.2 - Higher Order Functions - sort e map
@@ -67,5 +80,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
 - [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
 - [ ] 7.6 - Projeto - Zoo functions
+</details>
 
 
