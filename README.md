@@ -56,8 +56,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 6.1 - Fluxo de exceções e manipulação de objetos
 - [X] 6.2 - Primeiros passos em Jest
-- [ ] 6.3 - Matchers e cobertura de código
-- [ ] 6.4 - Projeto - JavaScript Testes Unitários
+- [X] 6.3 - Matchers e cobertura de código
+- [X] 6.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 7: [Higher Order Functions do JavaScript ES6](https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6)
 
