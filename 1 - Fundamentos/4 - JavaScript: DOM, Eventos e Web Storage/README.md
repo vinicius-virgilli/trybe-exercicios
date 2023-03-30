@@ -12,6 +12,10 @@
 
 <img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/Imagens%20e%20v%C3%ADdeo/aprova%C3%A7%C3%A3o%20projeto%20Pixels%20Art.png" alt="print da aprovação do projeto Pixels">
 
-<p> Print da postagem do projeto Pixels Art no linkedIn: point_down:
+<p> Print da postagem do projeto Pixels Art versão 1.0 no linkedIn: point_down:
 
-<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/Imagens%20e%20v%C3%ADdeo/postagem%20Pixels%20Art.png" alt="Print da postagem do projeto Pixels Art no linkedIn">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/Imagens%20e%20v%C3%ADdeo/postagem%20Pixels%20Art.png" alt="Print da postagem do projeto Pixels Art versão 1.0 no linkedIn">
+
+<p> Print da postagem do projeto Pixels Art versão 2.0 no linkedIn: point_down:
+
+<img src="" alt="Print da postagem do projeto Pixels Art versão 2.0 no linkedIn">
