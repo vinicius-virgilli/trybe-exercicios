@@ -5,10 +5,3 @@ Neste projeto, Testes Unitários em JS, implementamos funções a partir de test
 
 <p>Print da aprovação no projeto Testes Unitários em JavaScript :point_down:</p>
 <img src="" alt="Print da aprovação no projeto Testes Unitários">
-<br>
-
-<p>Print da aprovação no exercício Tests in Practice :point_down:</p>
-<img src="" alt="Print da aprovação no exercício Testes in Practice">
-
-
-
