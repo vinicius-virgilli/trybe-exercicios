@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="CSS/style.css">
+<link rel="stylesheet" href="[CSS/style.css](https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/CSS/style.css)">
 
 # Exercícios da [Trybe](https://www.betrybe.com/)
 <br>
