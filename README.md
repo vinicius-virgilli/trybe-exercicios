@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="CSS/style.css">
 # Exercícios da [Trybe](https://www.betrybe.com/)
 <br>
 
@@ -11,7 +12,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <summary><h2>:hourglass_flowing_sand: Fundamentos do Desenvolvimento Web</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" style="color: #00FF00;">Seção 1</a>: Introdução - Unix & Shell</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="done">Seção 1</a>: Introdução - Unix & Shell</summary>
 
   - [X] 1.1 - Unix e shell
   - [X] 1.2 - Git e Github, entendendo comandos
@@ -19,7 +20,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS" style="color: #00FF00;">Seção 2</a>: Introdução à HTML & CSS</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS" class="done">Seção 2</a>: Introdução à HTML & CSS</summary>
 
   - [x] 2.1 - HTML & CSS - Estruturas de página
   - [x] 2.2 - HTML & CSS - Primeiros passos em CSS
@@ -29,7 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript" style="color: #00FF00;">Seção 3</a>: Introdução à JavaScript</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript" class="done">Seção 3</a>: Introdução à JavaScript</summary>
 
   - [X] 3.1 - Primeiros passos
   - [X] 3.2 - Array e loop For
@@ -40,7 +41,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage" style="color: #00FF00;">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage" class="done">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage</summary>
 
   - [X] 4.1 - JDOM e seletores
   - [X] 4.2 - Trabalhando com elementos
@@ -51,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo" style="color: #00FF00;">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo" class="done">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo</summary>
 
   - [X] 5.1 - HTML & CSS - Forms
   - [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
@@ -62,7 +63,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #00FF00;">Seção 6</a>: Introdução à JavaScript ES6 e Testes Unitários</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="done">Seção 6</a>: Introdução à JavaScript ES6 e Testes Unitários</summary>
 
   - [X] 6.1 - Fluxo de exceções e manipulação de objetos
   - [X] 6.2 - Primeiros passos em Jest
@@ -71,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6" style="color: #FFA500;">Seção 7</a>: Higher Order Functions do JavaScript ES6</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6</summary>
 
   - [ ] 7.1 - Introdução a Higher Order Functions
   - [ ] 7.2 - Higher Order Functions - sort e map
@@ -84,7 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <summary><h2>:hourglass_flowing_sand: Front-end</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono</summary>
 
   - [ ] 1.1 - Ambiente de desenvolvimento
   - [ ] 1.2 - JavaScript Assíncrono - Promises e fetch
@@ -94,7 +95,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 2</a>: Introdução ao React</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 2</a>: Introdução ao React</summary>
 
   - [ ] 2.1 - 'Hello, world!' no React!
   - [ ] 2.2 - Componentes React
@@ -102,7 +103,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 3</a>: Componentes com Estado, Eventos e Formulários com React</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 3</a>: Componentes com Estado, Eventos e Formulários com React</summary>
 
   - [ ] 3.1 - Componentes com estado e eventos
   - [ ] 3.2 - Formulários no React
@@ -110,7 +111,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 4</a>: Ciclo de Vida de Componentes e React Router</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 4</a>: Ciclo de Vida de Componentes e React Router</summary>
 
   - [ ] 4.1 - Ciclo de vida de componentes
   - [ ] 4.2 - React Router
@@ -118,14 +119,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 5</a>: Metodologias Ágeis</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 5</a>: Metodologias Ágeis</summary>
 
   - [ ] 5.1 - Metodologias Ágeis
   - [ ] 5.2 - Projeto - Front-end Online Store
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 6</a>: Testes automatizados com React Testing Library</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 6</a>: Testes automatizados com React Testing Library</summary>
 
   - [ ] 6.1 - Primeiros passos
   - [ ] 6.2 - RTL - Mocks e Inputs
@@ -134,7 +135,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 7</a>: Gerenciamento de estado com Redux</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 7</a>: Gerenciamento de estado com Redux</summary>
 
   - [ ] 7.1 - Introdução ao Redux - O estado global da aplicação
   - [ ] 7.2 - Usando o Redux no React
@@ -145,13 +146,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 8</a>: Projeto Jogo de Trivia</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 8</a>: Projeto Jogo de Trivia</summary>
 
   - [ ] 8.1 - Projeto - Jogo de Trivia
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 9</a>: Context API e React Hooks</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 9</a>: Context API e React Hooks</summary>
 
   - [ ] 9.1 - React Hooks - useState e useEffect
   - [ ] 9.2 - Context API
@@ -160,7 +161,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 10</a>: Projeto App de Receitas</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 10</a>: Projeto App de Receitas</summary>
 
   - [ ] 10.1 - Projeto App de Receitas
   </details>
@@ -168,7 +169,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <summary><h2>:hourglass_flowing_sand: Back-end</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 1</a>: Docker: Utilizando Containers</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
 
   - [ ] 1.1 - Utilizando Containers - Docker
   - [ ] 1.2 - Manipulando Imagens no Docker
@@ -177,7 +178,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 2</a>:  Introdução à SQL</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 2</a>:  Introdução à SQL</summary>
 
   - [ ] 2.1 - Banco de dados SQL
   - [ ] 2.2 - Encontrando dados em um banco de dados
@@ -187,7 +188,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
 
   - [ ] 3.1 - Funções mais usadas no SQL
   - [ ] 3.2 - Descomplicando JOINs
@@ -196,7 +197,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
 
   - [ ] 4.1 - Node.js: Runtime Assíncrono
   - [ ] 4.2 - Node.js: API REST com Express
@@ -207,7 +208,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
 
   - [ ] 5.1 - Arquitetura de Software: Camada Model
   - [ ] 5.2 - Arquitetura de Software: Camada Service
@@ -216,7 +217,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 6</a>: Node.js: ORM e Autenticação</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 6</a>: Node.js: ORM e Autenticação</summary>
 
   - [ ] 6.1 - ORM - Interface da aplicação com o banco de dados
   - [ ] 6.2 - ORM - Associations 1:1 e 1:N
@@ -226,13 +227,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
 
   - [ ] 7.1 - Infraestrutura: Deploy com Railway
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 8</a>: Introdução a TypeScript</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 8</a>: Introdução a TypeScript</summary>
 
   - [ ] 8.1 - Introdução ao TypeScript
   - [ ] 8.1 - Tipagem Estática e Generics
@@ -241,7 +242,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
 
   - [ ] 9.1 - Introdução à Orientação a Objetos
   - [ ] 9.2 - Herança e Composição
@@ -252,13 +253,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
 
   - [ ] 10.1 - Projeto - TFC - Trybe Futebol Clube
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 11</a>: Introdução ao MongoDB</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 11</a>: Introdução ao MongoDB</summary>
 
   - [ ] 10.1 - MongoDB - Introdução
   - [ ] 10.1 - Filter Operators
@@ -269,7 +270,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 12</a>: APIs OO e NoSQL</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 12</a>: APIs OO e NoSQL</summary>
 
   - [ ] 10.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
   - [ ] 10.1 - APIs orientadas a objetos e NoSQL: Herança e Abstração
@@ -277,7 +278,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 13</a>: Projeto - App de Delivery</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 13</a>: Projeto - App de Delivery</summary>
 
   - [ ] 10.1 - Projeto - App de Delivery
   </details>
@@ -285,7 +286,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <summary><h2>:hourglass_flowing_sand: Ciência da Computação</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" style="color: #FF4500">Seção 1</a>: Introdução à Python</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="toDo">Seção 1</a>: Introdução à Python</summary>
 
   - [ ] 1.1 - Aprendendo Python
   - [ ] 1.2 - Entrada e Saída de Dados
@@ -294,7 +295,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS" style="color: #FF4500">Seção 2</a>: Padrões de Projeto</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS" class="toDo">Seção 2</a>: Padrões de Projeto</summary>
 
   - [ ] 2.1 - P.O.O em Python
   - [ ] 2.2 - Padrões - Iterator, Adapter, Strategy
@@ -303,7 +304,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript" style="color: #FF4500">Seção 3</a>: Raspagem de Dados</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript" class="toDo">Seção 3</a>: Raspagem de Dados</summary>
 
   - [ ] 3.1 - Raspagem de Dados
   - [ ] 3.2 - Outras Ferramentas de Raspagem de Dados
@@ -312,7 +313,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage" style="color: #FF4500">Seção 4</a>: Algoritmos</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage" class="toDo">Seção 4</a>: Algoritmos</summary>
 
   - [ ] 4.1 - Complexidade de Algoritmos
   - [ ] 4.2 - Recursividade e Estratégias para solução de problemas
@@ -321,7 +322,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo" style="color: #FF4500">Seção 5</a>: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo" class="toDo">Seção 5</a>: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas</summary>
 
   - [ ] 5.1 - Arquitetura de Computadores
   - [ ] 5.2 - Arrays
@@ -331,7 +332,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" style="color: #FF4500">Seção 6</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 6</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
 
   - [ ] 6.1 - Hashmap e Dict
   - [ ] 6.2 - Set
