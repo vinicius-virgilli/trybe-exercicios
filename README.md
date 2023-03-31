@@ -9,7 +9,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 
-  <summary><h2 class="done">:hourglass_flowing_sand: Fundamentos do Desenvolvimento Web</h2></summary>
+  <h2 class="done">:hourglass_flowing_sand: Fundamentos do Desenvolvimento Web</h2>
 
   <details>
     <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="done">Seção 1</a>: Introdução - Unix & Shell</summary>
