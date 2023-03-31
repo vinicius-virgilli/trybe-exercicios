@@ -1,11 +1,14 @@
 .done {
+  text-decoration: none;
   color: #00FF00;
 }
 
 .doing {
+  text-decoration: none;
   color: #FFA500;
 }
 
 .toDo {
+  text-decoration: none;
   color: #FF4500;
 }
