@@ -11,7 +11,7 @@ Com isso somo agora capazes de:
 <br>
 print da aprovação no exercício Books Functions :point_down:
 <br>
-<img src="" alt="print da aprovação no exercício Books Functions">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/imagens/print%20aprova%C3%A7%C3%A3o%20no%20Books%20Functions.png" alt="print da aprovação no exercício Books Functions">
 
 
 
