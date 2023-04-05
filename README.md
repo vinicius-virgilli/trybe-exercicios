@@ -10,7 +10,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <h2 class="done">:hourglass_flowing_sand: Fundamentos do Desenvolvimento Web</h2>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="done">Seção 1</a>: Introdução - Unix & Shell  ✔</summary>
+    <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="done">Seção 1</a>: Introdução - Unix & Shell</summary>
 
   - [X] 1.1 - Unix e shell
   - [X] 1.2 - Git e Github, entendendo comandos
@@ -18,7 +18,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS" class="done">Seção 2</a>: Introdução à HTML & CSS  ✔</summary>
+    <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/2%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS" class="done">Seção 2</a>: Introdução à HTML & CSS</summary>
 
   - [x] 2.1 - HTML & CSS - Estruturas de página 
   - [x] 2.2 - HTML & CSS - Primeiros passos em CSS 
@@ -28,7 +28,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript" class="done">Seção 3</a>: Introdução à JavaScript  ✔</summary>
+    <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript" class="done">Seção 3</a>: Introdução à JavaScript</summary>
 
   - [X] 3.1 - Primeiros passos
   - [X] 3.2 - Array e loop For
@@ -39,7 +39,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage" class="done">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage  ✔</summary>
+    <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage" class="done">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage</summary>
 
   - [X] 4.1 - JDOM e seletores
   - [X] 4.2 - Trabalhando com elementos
@@ -50,7 +50,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo" class="done">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo  ✔</summary>
+    <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo" class="done">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo</summary>
 
   - [X] 5.1 - HTML & CSS - Forms
   - [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
@@ -61,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="done">Seção 6</a>: Introdução à JavaScript ES6 e Testes Unitários  ✔</summary>
+    <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="done">Seção 6</a>: Introdução à JavaScript ES6 e Testes Unitários</summary>
 
   - [X] 6.1 - Fluxo de exceções e manipulação de objetos
   - [X] 6.2 - Primeiros passos em Jest
@@ -70,11 +70,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   
-<a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6 ⏳
+⏳ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6
 
   - [X] 7.1 - Introdução a Higher Order Functions
   - [X] 7.2 - Higher Order Functions - sort e map
-  - [ ] 7.3 - Higher Order Functions - filter e reduce
+  - [X] 7.3 - Higher Order Functions - filter e reduce
   - [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
   - [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
   - [ ] 7.6 - Projeto - Zoo functions
