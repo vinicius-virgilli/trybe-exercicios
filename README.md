@@ -74,7 +74,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
   - [X] 7.1 - Introdução a Higher Order Functions
   - [X] 7.2 - Higher Order Functions - sort e map
-  - [ ] 7.3 - Higher Order Functions - filter e reduce
+  - [X] 7.3 - Higher Order Functions - filter e reduce
   - [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
   - [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
   - [ ] 7.6 - Projeto - Zoo functions
