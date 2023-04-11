@@ -11,4 +11,4 @@ Fizemos 6 exercícios para fixar, antes da aula. Fizemos também, 5 exercícios 
 <br>
 Print do meu desempenho no quiz :point_down:
 <br>
-<img src="" alt="Print do meu desempenho no quiz">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/imagens/Print%20do%20meu%20desempenho%20no%20quiz.png" alt="Print do meu desempenho no quiz">
