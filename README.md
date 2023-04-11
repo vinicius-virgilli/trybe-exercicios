@@ -85,7 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
  <summary><h2 class="done">:hourglass_flowing_sand: Front-end</h2></summary>
   
 
- ⏳ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono
+ ⏳ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/1%20-%20Introdu%C3%A7%C3%A3o%20ao%20Frontend%20e%20JavaScript%20ass%C3%ADncrono" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono
 
   - [ ] 1.1 - Ambiente de desenvolvimento
   - [ ] 1.2 - JavaScript Assíncrono - Promises e fetch
@@ -95,7 +95,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 2</a>: Introdução ao React</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/2%20-%20Introdu%C3%A7%C3%A3o%20ao%20React" class="toDo">Seção 2</a>: Introdução ao React</summary>
 
   - [ ] 2.1 - 'Hello, world!' no React!
   - [ ] 2.2 - Componentes React
@@ -103,7 +103,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 3</a>: Componentes com Estado, Eventos e Formulários com React</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/3%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React" class="toDo">Seção 3</a>: Componentes com Estado, Eventos e Formulários com React</summary>
 
   - [ ] 3.1 - Componentes com estado e eventos
   - [ ] 3.2 - Formulários no React
@@ -111,7 +111,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 4</a>: Ciclo de Vida de Componentes e React Router</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/4%20-%20Ciclo%20de%20Vida%20de%20Componentes%20e%20React%20Router" class="toDo">Seção 4</a>: Ciclo de Vida de Componentes e React Router</summary>
 
   - [ ] 4.1 - Ciclo de vida de componentes
   - [ ] 4.2 - React Router
@@ -119,14 +119,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 5</a>: Metodologias Ágeis</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/5%20-%20Metodologias%20%C3%81geis" class="toDo">Seção 5</a>: Metodologias Ágeis</summary>
 
   - [ ] 5.1 - Metodologias Ágeis
   - [ ] 5.2 - Projeto - Front-end Online Store
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 6</a>: Testes automatizados com React Testing Library</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/6%20-%20Testes%20automatizados%20com%20React%20Testing%20Library" class="toDo">Seção 6</a>: Testes automatizados com React Testing Library</summary>
 
   - [ ] 6.1 - Primeiros passos
   - [ ] 6.2 - RTL - Mocks e Inputs
@@ -135,7 +135,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 7</a>: Gerenciamento de estado com Redux</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/7%20-%20Gerenciamento%20de%20estado%20com%20Redux" class="toDo">Seção 7</a>: Gerenciamento de estado com Redux</summary>
 
   - [ ] 7.1 - Introdução ao Redux - O estado global da aplicação
   - [ ] 7.2 - Usando o Redux no React
@@ -146,13 +146,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 8</a>: Projeto Jogo de Trivia</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/8%20-%20Projeto%20Jogo%20de%20Trivia" class="toDo">Seção 8</a>: Projeto Jogo de Trivia</summary>
 
   - [ ] 8.1 - Projeto - Jogo de Trivia
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 9</a>: Context API e React Hooks</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/9%20-%20Context%20API%20e%20React%20Hooks" class="toDo">Seção 9</a>: Context API e React Hooks</summary>
 
   - [ ] 9.1 - React Hooks - useState e useEffect
   - [ ] 9.2 - Context API
@@ -161,7 +161,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 10</a>: Projeto App de Receitas</summary>
+    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/10%20-%20Projeto%20App%20de%20Receitas" class="toDo">Seção 10</a>: Projeto App de Receitas</summary>
 
   - [ ] 10.1 - Projeto App de Receitas
   </details>
