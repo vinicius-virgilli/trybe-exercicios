@@ -17,4 +17,4 @@ Print do meu desempenho no quiz do dia 5:point_down:
 
 Print da aprovação no Zoo Functions :point_down:
 <br>
-<img src="" alt="Print da aprovação no Zoo Functions">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/imagens/prinnt%20da%20aprova%C3%A7%C3%A3o%20no%20Zoo%20Functions.png" alt="Print da aprovação no Zoo Functions">
