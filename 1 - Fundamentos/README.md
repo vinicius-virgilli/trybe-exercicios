@@ -1,15 +1,13 @@
 ### Eis aqui as imagens que tentam resumir como foi o módulos fundamentos para mim
-<br>
 
 #### Para maiores detalhes, clique no link correspondente à casa seção!
 <br>
-<summary><h2 class="done"></h2></summary>
 
 <details>
     <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="done">Seção 1</a>: Unix, Shell e Git</summary>
 
   - <p>Minha postagem no linkedin sobre os comandos divertidos:</p>
-  <a href="https://www.linkedin.com/posts/vinicius-silva-virgilli_vqv-soutrybe-betrybe-activity-7029469353032978432-LluT?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer"><img style="margin: auto" src="postagem sobre comandos no terminal.png" alt="postagem sobre comandos no terminal"></a>
+  <a href="https://www.linkedin.com/posts/vinicius-silva-virgilli_vqv-soutrybe-betrybe-activity-7029469353032978432-LluT?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer"><img style="margin: auto" src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git/Dia%2001%20Unix%20e%20shell/postagem%20sobre%20comandos%20no%20terminal.png" alt="postagem sobre comandos no terminal"></a>
   </details>
   <br>
 
@@ -28,17 +26,17 @@
     <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="done">Seção 3</a>: Introdução à JavaScript</summary>
 
   - <p>Aprovação no exercício Funções:</p>
-<img src="./imagens/aprovação exercício Funcões.png" alt="print da aprovação exercício Funções">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript/imagens/aprova%C3%A7%C3%A3o%20exerc%C3%ADcio%20Func%C3%B5es.png" alt="print da aprovação exercício Funções">
 
   - <p>Aprovação no exercício Functions in Practice:</p>
-<img src="./imagens/aprovação exercício Functions in Practice.png" alt="print da aprovação exercício Functions in Practice">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript/imagens/aprova%C3%A7%C3%A3o%20exerc%C3%ADcio%20Functions%20in%20Practice.png" alt="print da aprovação exercício Functions in Practice">
 
   - <p>Resultado no jogo Kahoot!:</p>
 <p>Fiquei em 3º junto dos cologas Emerson Barros e Guilherme Azis! :point_down:
-<img src="./imagens/terceira colocação non Kahoot.png" alt="print do pódio no Kahoot.png">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript/imagens/terceira%20coloca%C3%A7%C3%A3o%20non%20Kahoot.png" alt="print do pódio no Kahoot.png">
 
   - <p>Aprovação no projeto Playgroud Functions:</p>
-<img src="./imagens/aprovação Playgroud Functions.png">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript/imagens/aprova%C3%A7%C3%A3o%20Playgroud%20Functions.png">
   </details>
   <br>
 
@@ -113,6 +111,6 @@
 <img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/imagens/Print%20do%20meu%20desempenho%20no%20quiz.png" alt="Print do meu desempenho no quiz">
 
   - Print da aprovação no Zoo Functions :point_down:
-<img src="" alt="Print da aprovação no Zoo Functions">
+<img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/imagens/prinnt%20da%20aprova%C3%A7%C3%A3o%20no%20Zoo%20Functions.png" alt="Print da aprovação no Zoo Functions">
   </details>
   
