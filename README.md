@@ -69,14 +69,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] 6.4 - Projeto - JavaScript Testes Unitários
   </details>
 
-  
 ⏳ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6
 
   - [X] 7.1 - Introdução a Higher Order Functions
   - [X] 7.2 - Higher Order Functions - sort e map
   - [X] 7.3 - Higher Order Functions - filter e reduce
   - [X] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
-  - [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
+  - [X] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
   - [ ] 7.6 - Projeto - Zoo functions
  
 <br>
