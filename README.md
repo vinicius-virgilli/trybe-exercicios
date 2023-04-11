@@ -7,7 +7,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 
-  <h2 class="done">:hourglass_flowing_sand: Fundamentos do Desenvolvimento Web</h2>
+  <summary><h2 class="done">✔  Fundamentos do Desenvolvimento Web</h2></summary>
 
   <details>
     <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/1%20-%20Unix%2C%20Shell%20e%20Git" class="done">Seção 1</a>: Introdução - Unix & Shell</summary>
@@ -68,28 +68,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] 6.3 - Matchers e cobertura de código
   - [X] 6.4 - Projeto - JavaScript Testes Unitários
   </details>
-
-⏳ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6
+  
+ <details>
+⏳ <summary>✔ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/7%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6</summary>
 
   - [X] 7.1 - Introdução a Higher Order Functions
   - [X] 7.2 - Higher Order Functions - sort e map
   - [X] 7.3 - Higher Order Functions - filter e reduce
   - [X] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
   - [X] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand, e default parameters
-  - [ ] 7.6 - Projeto - Zoo functions
+  - [X] 7.6 - Projeto - Zoo functions
+ </details>
  
 <br>
-  <summary><h2>:hourglass_flowing_sand: Front-end</h2></summary>
 
-  <details>
-    <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono</summary>
+ <summary><h2 class="done">:hourglass_flowing_sand: Front-end</h2></summary>
+  
+
+ ⏳ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono
 
   - [ ] 1.1 - Ambiente de desenvolvimento
   - [ ] 1.2 - JavaScript Assíncrono - Promises e fetch
   - [ ] 1.3 - Prática - Casa de câmbio
   - [ ] 1.4 - Async, await e testes assíncronos
   - [ ] 1.5 - Projeto - Carrinho de compras
-  </details>
+
 
   <details>
     <summary><a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/6%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="toDo">Seção 2</a>: Introdução ao React</summary>
