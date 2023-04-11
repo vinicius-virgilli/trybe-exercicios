@@ -20,5 +20,5 @@
 
 <details>
 <summary><strong>⌨️ Aprovação no projeto Playgroud Functions</strong></summary><br />
-<img src="./imagens/aprovação Playgroud Functions.png"
+<img src="./imagens/aprovação Playgroud Functions.png">
 </details>
