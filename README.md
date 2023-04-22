@@ -87,9 +87,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
  ⏳ <a href="https://github.com/vinicius-virgilli/trybe-exercicios/tree/main/2%20-%20Front-end/1%20-%20Introdu%C3%A7%C3%A3o%20ao%20Frontend%20e%20JavaScript%20ass%C3%ADncrono" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono
 
-  - [ ] 1.1 - Ambiente de desenvolvimento
-  - [ ] 1.2 - JavaScript Assíncrono - Promises e fetch
-  - [ ] 1.3 - Prática - Casa de câmbio
+  - [X] 1.1 - Ambiente de desenvolvimento
+  - [X] 1.2 - JavaScript Assíncrono - Promises e fetch
+  - [X] 1.3 - Prática - Casa de câmbio
   - [ ] 1.4 - Async, await e testes assíncronos
   - [ ] 1.5 - Projeto - Carrinho de compras
 
