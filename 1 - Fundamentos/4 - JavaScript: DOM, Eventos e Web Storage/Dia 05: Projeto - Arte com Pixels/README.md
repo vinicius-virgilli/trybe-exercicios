@@ -9,5 +9,5 @@ Print da postagem da versão 2.0 no LinkedIn :point_down:
 Postagem da versão 1.0 no LinkedIn :point_down:
 <br>
 <img src="https://github.com/vinicius-virgilli/trybe-exercicios/blob/main/1%20-%20Fundamentos/4%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/Imagens%20e%20v%C3%ADdeo/postagem%20Pixels%20Art.png" alt="Print da postagem da versão 1.0 no LinkedIn">
-
-
+<p>Vídeo demonstrando a aplicação :point_down:</p>
+<p>Clique<a href="https://www.youtube.com/watch?v=4yodfdNNuP4" target="_blank"> aqui</a> para acessar</p>
