@@ -1,6 +1,6 @@
 # Exercícios da [Trybe](https://www.betrybe.com/)
 <br>
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Vinicius Silva Virgilli](https://www.linkedin.com/in/vinicius-silva-virgilli/) enquanto pessoa estudante na [Trybe](https://www.betrybe.com/)! :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por <a href="https://www.linkedin.com/in/vinicius-silva-virgilli/" target="_blank" rel="noopener noreferrer">Vinicius Silva Virgilli</a> enquanto pessoa estudante na <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a>! :rocket:
 
 <p class="done">"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."</p>
 
@@ -90,7 +90,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] 1.1 - Ambiente de desenvolvimento
   - [X] 1.2 - JavaScript Assíncrono - Promises e fetch
   - [X] 1.3 - Prática - Casa de câmbio
-  - [ ] 1.4 - Async, await e testes assíncronos
+  - [X] 1.4 - Async, await e testes assíncronos
   - [ ] 1.5 - Projeto - Carrinho de compras
 
 
