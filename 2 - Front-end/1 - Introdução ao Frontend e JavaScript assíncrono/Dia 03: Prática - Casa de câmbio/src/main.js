@@ -1,5 +1,5 @@
-import Swal from 'sweetalert2';
 import './style.css';
+import Swal from 'sweetalert2';
 
 // Capturando elementos
 const searchedCoinEl = document.querySelector('#searchedInput');
